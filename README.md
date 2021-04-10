@@ -5,6 +5,6 @@ The Intention of this project is to make a Mud style game through the command pr
 Currently there are 2 contributors who are very enthusiastic, but we happily accept any others who are willing to join the cause
 
 We are using:
-Flask-1.1.2
-Esper-1.3
-Mongoengine-0.23.0
+Flask
+Esper
+Mongoengine
