@@ -1,0 +1,25 @@
+1. Characters start on surface of planet
+2. Top down perspective (Isometric)
+3. Map redraw for changes in elevation
+4. Player character controllable
+5. All characters that are not PC can be controlled by player through job system
+6. Create algorithm for map generation
+7. Use Tcod docs https://python-tcod.readthedocs.io/en/latest/tcod/getting-started.html
+8. Use http://rogueliketutorials.com/tutorials/tcod/v2/part-1/ for tutorials
+9. Base window will be 720x480
+10. Player will be able to research
+11. Solar system will be single map
+12. Map redraw when leaving solar system (Runs map generation upon leaving solar system)
+13. Player character choosable race between (Dwarf, Elves, Orcs,
+ Humans(multiple races with different names), Gnomes, Dragonborn, Halfling
+  Broken Lords (change name) https://endless-legend.fandom.com/wiki/Broken_Lords)
+14. Eventually add multiplayer
+15. Multiple Magic systems (Rune magic https://warhammerfantasy.fandom.com/wiki/Rune_Magic maybe https://fma.fandom.com/wiki/Alchemy,
+ Metal Magic https://mistborn.fandom.com/wiki/Allomancy,
+  Energy Magic https://forgottenrealms.fandom.com/wiki/Magic,
+  Elemental Magic similar to avatar the last air bender  maybe more)
+16. Science and Magic Research are seperate, but can have integrating benefits
+17. Small Pantheon as a storyteller system (2 gods per race (not real),
+ 1 god for Magic, 1 god for Science, 1 god for Space)
+18. Powerful runes are any rune that has an effect that is beyond your direct controllable
+19. Create collision system that works for asteroids and planets
