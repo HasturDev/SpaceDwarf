@@ -10,3 +10,9 @@ class Inside_Planet_Location:
 class Inside_Solar_System_Location:
     x: int
     y: int
+
+@dataclass
+class Zombie:
+    status: int
+    lich: bool
+    
